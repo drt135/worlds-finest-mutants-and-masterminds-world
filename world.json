@@ -1,0 +1,41 @@
+{
+  "title": "Worlds finest??maybe?",
+  "id": "test",
+  "system": "mutants-and-masterminds-3e",
+  "joinTheme": "default",
+  "coreVersion": "12.331",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12.331"
+  },
+  "systemVersion": "1.35.3",
+  "lastPlayed": "Sat Nov 23 2024 21:16:20 GMT-0500 (Eastern Standard Time)",
+  "playtime": 49809,
+  "background": "https://i.imgur.com/xUN2Uwr.jpg",
+  "packs": [
+    {
+      "label": "New Compendium (9)",
+      "type": "Scene",
+      "name": "new-compendium-9",
+      "path": "packs/new-compendium-9",
+      "system": "mutants-and-masterminds-3e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "rift",
+      "label": "rift",
+      "path": "packs/rift",
+      "type": "Actor",
+      "system": "mutants-and-masterminds-3e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ]
+}
